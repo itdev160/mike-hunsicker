@@ -115,7 +115,7 @@
   var beautify = new Package(data[1]);
   writePackageInfo(beautify);
 
-  // continue with eight more packages... OR
+  // continue with a couple more packages... OR
 
   // Write package data using for loop
   // for (var i = 0; i < data.length; i++) {
